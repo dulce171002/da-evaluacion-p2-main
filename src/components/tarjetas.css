@@ -1,0 +1,16 @@
+.tarjeta{
+    padding: 50px;
+    flex-direction: column;
+    justify-content: center;
+    background-color: #ed9d9d;
+    margin-right: 25%;
+}
+.letras{
+    margin-bottom: 5px;
+    color: #333;
+  }
+
+.legend{
+    color: crimson;
+    font-weight: bold;
+  }

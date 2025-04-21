@@ -1,0 +1,18 @@
+[
+    {
+      "nombre": "Luis Nieves",
+      "Licenciatura": "Tic",
+      "Duracion": "3 años"
+    },
+    {
+      "nombre": "María López",
+      "Licenciatura": "Administración",
+      "Duracion": "4 años"
+    },
+    {
+      "nombre": "Carlos Méndez",
+      "Licenciatura": "Diseño Gráfico",
+      "Duracion": "5 años"
+    }
+  ]
+  
